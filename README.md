@@ -23,5 +23,8 @@ The project database can be found here:
 ### ERD Diagram
 Below shows the entity relationship diagram for the database
 ![image](https://github.com/lydiafearn/Rockbuster-Analysis-SQL/assets/141242699/8d39f16f-c694-4878-9776-5e34922cea75)
+### Final Report Presentation 
+The final report for this project can be found [here.](https://github.com/lydiafearn/Rockbuster-Analysis-SQL/blob/main/Rockbuster%20Presentation%20-%20Film%20Sales%20Strategy.pdf)
 
+This contains the visualisations and recommendations for the film sales strategy.
 
