@@ -1,5 +1,7 @@
 This file contains some of the queries I used in order to answer the key business questions for the project.
 
-Query 1: Films with the highest revenue:
-```
+Query 1 - Films with the highest revenue:
+
 SELECT A.title, SUM(D.amount) AS total_revenue,
+FROM film A
+INNER JOIN inventory B ON A.film_id = B.film_id
