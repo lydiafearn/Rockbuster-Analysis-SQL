@@ -2,8 +2,4 @@ This file contains some of the queries I used in order to answer the key busines
 
 Query 1: Films with the highest revenue:
 ```
-git status
-git add
-git commit
-```
 SELECT A.title, SUM(D.amount) AS total_revenue,
